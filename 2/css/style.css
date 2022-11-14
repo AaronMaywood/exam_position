@@ -6,10 +6,8 @@
 	margin: 0 auto;
 	margin-top: 3rem;
 
-	/* 以下にCSSを追加せよ */
-
-
-
+	/* 答え */
+	position: relative;
 }
 
 .target {
@@ -19,8 +17,8 @@
 	padding: 1rem;
 	margin: 1rem;
 
-	/* 以下にCSSを追加せよ */
-
-
-
+	/* 答え */
+	position: absolute;
+	top: -3rem;
+	left: -100px;
 }

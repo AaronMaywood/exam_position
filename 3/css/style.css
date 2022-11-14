@@ -9,12 +9,13 @@
 .leftside-menu {
 	background: lightyellow;
 	width: 300px;
+	height: 100%;
 	padding: 3rem;
+	position: fixed;
 
-	/* 以下にCSSを追加せよ */
-
-
-
+	/* 答え */
+	height: 100%;
+	position: fixed;
 }
 
 .container {
