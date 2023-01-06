@@ -3,11 +3,6 @@
 .container {
 	border: 10px solid gray;
 	width: 500px;
-
-	/* 以下にCSSを追加せよ */
-
-
-
 }
 
 .target {
@@ -16,9 +11,4 @@
 	height: 100px;
 	padding: 1rem;
 	margin: 1rem;
-
-	/* 以下にCSSを追加せよ */
-
-
-
 }
